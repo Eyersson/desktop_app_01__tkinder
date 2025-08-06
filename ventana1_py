@@ -28,7 +28,7 @@ def salir():
 # ---------------------------
 
 ventana_principal = Tk()
-ventana_principal.title("Samyr Alejandro Archila Guiza")
+ventana_principal.title("Eyersson Montaña")
 ventana_principal.geometry("800x500")
 ventana_principal.resizable(0,0)
 ventana_principal.config(bg="black")
